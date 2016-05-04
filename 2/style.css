@@ -1,0 +1,18 @@
+body {
+  font-family: Verdana;
+  font-size: 12px;
+  color: #221F22;
+  
+ }
+#pic {
+  display: block;
+  margin: 0 auto;
+  width: 30%;
+}
+a {
+	text-decoration: none;
+	color: #F4C7D1;
+}
+p {
+	text-align: center;
+}
